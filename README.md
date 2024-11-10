@@ -1,4 +1,4 @@
-Uses Conjugate Gradient Method
+Mapped surface models (eg: UCLA’s brain cortical surface model) unto a sphere using spherical conformal parametrization with gradient descent. Achieved 45% speedup using conjugate orthogonality constraints.
 
 To build and run the project,
 
